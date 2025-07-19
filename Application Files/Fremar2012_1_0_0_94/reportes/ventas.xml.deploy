@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<linea>
+  <id_venta>1</id_venta>
+  <tipo>remision</tipo>
+  <cliente>juan perez</cliente>
+  <fecha>2013-01-01</fecha>
+  <monto>100.00</monto>
+  <costo>90.00</costo>
+</linea>
